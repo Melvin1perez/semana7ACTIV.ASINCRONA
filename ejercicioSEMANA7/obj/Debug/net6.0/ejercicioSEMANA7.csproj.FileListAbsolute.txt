@@ -1,0 +1,15 @@
+C:\ejercicioSEMANA7\bin\Debug\net6.0\ejercicioSEMANA7.exe
+C:\ejercicioSEMANA7\bin\Debug\net6.0\ejercicioSEMANA7.deps.json
+C:\ejercicioSEMANA7\bin\Debug\net6.0\ejercicioSEMANA7.runtimeconfig.json
+C:\ejercicioSEMANA7\bin\Debug\net6.0\ejercicioSEMANA7.dll
+C:\ejercicioSEMANA7\bin\Debug\net6.0\ejercicioSEMANA7.pdb
+C:\ejercicioSEMANA7\obj\Debug\net6.0\ejercicioSEMANA7.csproj.AssemblyReference.cache
+C:\ejercicioSEMANA7\obj\Debug\net6.0\ejercicioSEMANA7.GeneratedMSBuildEditorConfig.editorconfig
+C:\ejercicioSEMANA7\obj\Debug\net6.0\ejercicioSEMANA7.AssemblyInfoInputs.cache
+C:\ejercicioSEMANA7\obj\Debug\net6.0\ejercicioSEMANA7.AssemblyInfo.cs
+C:\ejercicioSEMANA7\obj\Debug\net6.0\ejercicioSEMANA7.csproj.CoreCompileInputs.cache
+C:\ejercicioSEMANA7\obj\Debug\net6.0\ejercicioSEMANA7.dll
+C:\ejercicioSEMANA7\obj\Debug\net6.0\refint\ejercicioSEMANA7.dll
+C:\ejercicioSEMANA7\obj\Debug\net6.0\ejercicioSEMANA7.pdb
+C:\ejercicioSEMANA7\obj\Debug\net6.0\ejercicioSEMANA7.genruntimeconfig.cache
+C:\ejercicioSEMANA7\obj\Debug\net6.0\ref\ejercicioSEMANA7.dll
